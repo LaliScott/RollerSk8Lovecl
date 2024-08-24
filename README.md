@@ -3,4 +3,4 @@
 - Estado del proyecto: en construcción.
 - Objetivo del proyecto: crear una web para clases de patinaje
 
-  ```npm install react´´´
+  ```npm install react```
